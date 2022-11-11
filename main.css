@@ -1,0 +1,58 @@
+body {
+    background-color: black;
+    color: #00FF41;
+}
+
+.message__container {
+    border: solid;
+    padding: 10px;
+    justify-content: center;
+    border-width: 30%;
+    border-color: #00FF41;
+}
+
+h1 {
+    font-family: 'Source Code Pro', monospace;
+    padding: 10px;
+}
+
+input {
+    margin-left: 10px;
+    background-color: black;
+    border: none;
+    font-family: 'Source Code Pro', monospace;
+    color: #04AA6D;
+}
+
+button {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    background-color: black;
+    color: #00FF41;
+    padding: 10px;
+    font-family: 'Xanh Mono', monospace;
+    border-style: dashed;
+    border-color: #00FF41;
+}
+
+.nova__linha {
+    border: solid;
+    border-color: #00FF41;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.novo__texto {
+    font-family: 'Fira Code', monospace;
+}
+
+textoValor {
+    color: blueviolet;
+}
+
+#new-page-button {
+    margin-top: 0;
+
+}
+

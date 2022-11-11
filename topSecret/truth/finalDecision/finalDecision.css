@@ -1,0 +1,30 @@
+* {
+    background-color: black;
+    color: #00FF41;
+    font-family: 'Source Code Pro', monospace;
+}
+
+body {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.finais {
+    background-color: white;
+    border-radius: 10%;
+    margin-top: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    border: 10px solid;
+    padding: 15px;
+    border-image: url(/-IMG/folders-interface-symbol-of-stroke_icon-icons.com_57830.png) 90 round;
+    color: black;
+    background-color: white;
+}

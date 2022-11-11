@@ -1,0 +1,12 @@
+* {
+    background-color: black;
+    color:#00FF41;
+    font-family: 'Source Code Pro', monospace;
+}
+
+body {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
