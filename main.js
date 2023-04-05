@@ -25,7 +25,7 @@ formulario.addEventListener('submit', function (evento) {
     const newPageButton = document.getElementById('new-page-button')
     newPageButton.addEventListener('click', (event) => {
     event.preventDefault()
-    window.location.replace('/message/message.html')
+    window.location.replace('http://127.0.0.1:5500/message/message.html')
 })
     formulario.reset()
 })
